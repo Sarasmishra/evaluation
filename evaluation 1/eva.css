@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.grandfather{
+    width: 97vw;
+    height: 100vh;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border:1px dashed black;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around ;
+    align-items: center;
+}
+.father{
+    width:47vw;
+    height: 90%;
+    border: 1px dashed black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.uncle{
+    width:47vw;
+    height: 90%;
+    border: 1px dashed black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.person{
+    width: 90%;
+    height: 90%;
+    border: 1px dashed black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.person1{
+    width: 90%;
+    height: 10%;
+    border: 1px dashed black;
+}
+.person2{
+    width: 90%;
+    height: 70%;
+    border: 1px dashed black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.person3{
+    width: 90%;
+    height: 10%;
+    border: 1px dashed black;
+}
+.child1{
+    width: 10%;
+    height: 90%;
+    border: 1px solid black;
+}
+.child2{
+    width: 10%;
+    height: 90%;
+    border: 1px solid black;
+}
+.child3{
+    width: 15%;
+    height: 90%;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    gap: 10px;
+    
+
+}
+.one{
+    width:50%;
+    height:15%; 
+    border: 1px dashed black;
+    margin-top: 20px;
+    
+}
+
+.two{
+    width:50%;
+    height:15%; 
+    border: 1px dashed black;
+}
+.three{
+    width:50%;
+    height: 15%; 
+    border: 1px dashed black;
+}
+p{
+    font-size: 40px;
+    font-weight:bolder ;
+    text-align: center;
+     
+     color: black;
+
+}
+.child5{
+    width: 90%;
+    height: 70%;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    gap: -10px;
+}
+.child4{
+    width: 90%;
+    height: 10%;
+    border: 1px solid black;
+}
+.child6{
+    width: 90%;
+    height: 10%;
+    border: 1px solid black;
+}
+.four{
+    width: 90%;
+    height: 20%;
+    border:1px dashed black;
+    background-color: orange;
+}
+.five{
+    width: 90%;
+    height: 20%;
+    border:1px dashed blue;
+}
+.six{
+    width: 90%;
+    height: 20%;
+    border:1px dashed black;
+    background-color: rgb(7, 57, 7);
+}
+h1{
+    font-size: 40px;
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+   
+}
+#col{
+    color: blue;
+}
